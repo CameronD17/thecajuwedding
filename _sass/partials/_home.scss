@@ -1,0 +1,35 @@
+.featured-post {
+  width: $content-width;
+  display: block;
+  margin: 10px auto 10px;
+  height: 600px;
+  max-height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-image: var(--image);
+}
+
+.featured-post:hover {
+  cursor:pointer;
+  background-image: var(--colour-image);
+  @include link-hover($font-colour, $hover-transition-time);
+}
+
+.featured-post a {
+  position: absolute;
+  inset: 0;
+}
+
+.featured-post h1 {
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-family: $header-font;
+  font-size: $title-font-size;
+  color: $background-colour;
+}

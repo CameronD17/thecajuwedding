@@ -1,0 +1,11 @@
+.fa-envelope {
+  padding: 5px;
+  color: $font-colour;
+  @include link-hover($link-colour, $hover-transition-time);
+}
+
+.fa-instagram {
+  padding: 5px;
+  color: $font-colour;
+  @include link-hover($link-colour, $hover-transition-time);
+}

@@ -1,0 +1,5 @@
+{% if 'en' == site.active_lang %}
+    <a href="/pt{{ page.permalink }}" class="menu-link"><span class="fi fi-br" title="Mudar para português"></span></a>
+{% else %}
+    <a href=" {{ page.url }}" class="menu-link"><span class="fi fi-gb-sct" title="Switch to English"></span></a>
+{% endif %}

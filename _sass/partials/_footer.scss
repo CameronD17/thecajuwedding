@@ -1,0 +1,23 @@
+.footer {
+  background: $background-colour;
+  color: $font-colour;
+  text-align: center;
+  min-height: $header-thickness;
+  line-height: 45px;
+  width: 100%;
+}
+
+@media (max-width: $content-width) {
+  .footer {
+    background: $background-colour;
+    color: $font-colour;
+    text-align: center;
+    min-height: $header-thickness;
+    line-height: $header-thickness;
+  }
+}
+.footer-description {
+  display: block;
+  margin-bottom: 1rem;
+  font-size:0.8rem;
+}

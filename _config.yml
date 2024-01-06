@@ -1,0 +1,18 @@
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           /:title
+plugins:             [jekyll-seo-tag, jekyll-polyglot]
+
+title:		           "CaJu"
+description:	       "The wedding of Cameron & Júlia"
+author:              "Cameron Doyle"
+
+# Polyglot config
+languages: ["en", "pt"]
+default_lang: "en"
+exclude_from_localization: ["assets/css", "assets/img"]
+parallel_localization: true
+
+sass:
+  sourcemap: never

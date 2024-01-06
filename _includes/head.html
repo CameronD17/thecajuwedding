@@ -1,0 +1,16 @@
+<head>
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.data.l10n.title }} | {{ site.data.l10n.description }}
+    {% else %}
+      {{ page.title }} | {{ site.data.l10n.title }}
+    {% endif %}
+  </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Caveat|Josefin Sans">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.0.0/css/flag-icons.min.css">
+  {% seo %}
+</head>

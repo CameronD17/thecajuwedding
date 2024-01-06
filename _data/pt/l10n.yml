@@ -1,0 +1,9 @@
+lang_name: "Português"
+title:		           "O CaJu Casamento"
+description:	       "O Casamento de Cameron e Júlia"
+menu:
+# - {name: 'Sobre Os Ursos', url: 'about'}
+# - {name: 'Sequência Do Dia', url: 'order-of-the-day'}
+# - {name: 'Local', url: 'venue'}
+# - {name: 'Contate-nos', url: 'contact'}
+- {name: 'Festa de Noivado', url: 'engagement'}

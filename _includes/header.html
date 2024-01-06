@@ -1,0 +1,27 @@
+<header class="site-header">
+  <div class="menu-logo"><div></div><img src="/assets/img/caju-logo.png"/></div>
+  <h3 class="site-title">
+    <a href="{{ site.github.url }}/">{{ site.data.l10n.title }}</a>
+  </h3>
+  <nav class="menu-list">
+    {% for item in site.data.l10n.menu %}
+      <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
+    {% endfor %}
+    {% for item in site.data.settings.social %}
+      <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+    {% endfor %}
+    {% include language-switch.html %}
+  </nav>
+  <div class="dropdown">
+    <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
+    <div class="dropdown-content">
+      {% for item in site.data.l10n.menu %}
+        <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
+      {% endfor %}
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+      {% endfor %}
+      {% include language-switch.html %}
+    </div>
+  </div>
+</header>

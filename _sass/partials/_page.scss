@@ -1,0 +1,21 @@
+.header-image {
+  height: 650px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.header-image h1 {
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-family: $header-font;
+  font-size: $title-font-size;
+  color: $background-colour;
+  letter-spacing: -1px;
+}
