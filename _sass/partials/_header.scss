@@ -93,21 +93,21 @@
   .dropbtn {
     background-color: $background-colour;
     color: $font-colour;
-    padding: 16px;
-    margin-top: 4px;
+    padding: 20px;
     font-size: 16px;
     border: none;
     cursor: pointer;
   }
   .dropdown {
     position: relative;
-    display: inline-block;
+    float: right;
   }
   .dropdown-content {
     display: none;
     position: absolute;
     background-color: $background-colour;
     min-width: 160px;
+    right: 0px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
   }
