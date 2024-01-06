@@ -6,16 +6,14 @@ title: Home
 {% assign engagement = site.pages | where: "page_id", "engagement" | first %}
 
 <div class="featured-post" style="--image: url({{ site.github.url }}/assets/img/{{ engagement.image }}); --colour-image: url({{ site.github.url }}/assets/img/{{ engagement.colour-image }})">
-  <a href="{{ site.github.url }}{{ engagement.url }}"></a>
-  <h1>{{ engagement.title }}</h1>
+  <a href="{{ site.github.url }}{{ engagement.url }}"><h1>{{ engagement.title }}</h1></a>
 </div>
 
 <!-- (To re-enable post-engagement)
 {% for item in site.pages %}
   {% if item.image %}
     <div class="featured-post" style="--image: url({{ site.github.url }}/assets/img/{{ item.image }}); --colour-image: url({{ site.github.url }}/assets/img/{{ item.colour-image }})">
-      <a class="featured-link" href="{{ site.github.url }}{{ item.url }}"></a>
-      <h1>{{ item.title }}</h2>
+      <a class="featured-link" href="{{ site.github.url }}{{ item.url }}"><h1>{{ item.title }}</h1></a>
     </div>
   {% endif %}
 {% endfor %} -->
