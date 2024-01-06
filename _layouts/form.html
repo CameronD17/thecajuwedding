@@ -2,8 +2,13 @@
 layout: page
 ---
 {{ content }}
+{% if site.active_lang == 'pt' %}
+  {% assign redirect = 'https://thecajuwedding.com/pt/thanks' %}
+{% else %}
+  {% assign redirect = 'https://thecajuwedding.com/thanks' %}
+{% endif %}
 <form action='https://forms.zohopublic.com/virtualoffice23209/form/RSVP/formperma/dukGdIl9E9u-j4qFwTge3tPvXjMkqo6xpbd6VyHRvo4/htmlRecords/submit' name='form' id='form' method='POST' accept-charset='UTF-8' enctype='multipart/form-data'>
-  <input type="hidden" name="zf_redirect_url" value="{{ site.baseurl }}/">
+  <input type="hidden" name="zf_redirect_url" value="{{ redirect }}">
   <p></p>
   <!--Name-->
   <input type="text" maxlength="255" name="Name_First" fieldType=7 placeholder="First Name" />
