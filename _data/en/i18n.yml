@@ -2,8 +2,8 @@ lang_name: "English"
 title:		           "The CaJu Wedding"
 description:	       "The Wedding of Cameron & Júlia"
 menu:
-# - {name: 'About', url: 'about'}
-# - {name: 'Order Of The Day', url: 'order-of-the-day'}
-# - {name: 'Venue', url: 'venue'}
-# - {name: 'Contact Us', url: 'contact'}
 - {name: 'Engagement Party RSVP', url: 'engagement'}
+- {name: 'Venue', url: 'venue'}
+# - {name: 'About Us', url: 'about'}
+# - {name: 'Order Of The Day', url: 'order-of-the-day'}
+# - {name: 'Contact Us', url: 'contact'}

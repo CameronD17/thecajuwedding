@@ -6,6 +6,7 @@ lang: pt
 image: salthorse.jpeg
 colour-image: salthorse-colour.jpeg
 page_id: engagement
+order: 1
 ---
 
 Pera aí... a festa não é no Brasil! Como você chegou nesta página?
@@ -13,6 +14,8 @@ Pera aí... a festa não é no Brasil! Como você chegou nesta página?
 Desculpe por ainda não ter traduzido o formulário. A Júlia estava com pressa...
 
 # Local
+
+9 de março de 2024
 
 [Salt Horse](https://www.salthorse.beer/) 
 

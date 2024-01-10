@@ -6,6 +6,7 @@ lang: en
 image: salthorse.jpeg
 colour-image: salthorse-colour.jpeg
 page_id: engagement
+order: 1
 ---
 
 Hey, we're so glad you can make it to our engagement party! 
@@ -13,6 +14,8 @@ Hey, we're so glad you can make it to our engagement party!
 Please let us know who's coming and if you need feeding (it's on us!) so we can plan for numbers <3
 
 # Venue
+
+9th March 2024
 
 [Salt Horse](https://www.salthorse.beer/) 
 
