@@ -20,9 +20,7 @@ You can read more about [Boreland here](https://borelandlochtay.co.uk/) or check
 
 # Accommodation
 
-For those coming from far (far) away, don't worry, we have sorted accommodation for you on-site for the full weekend Friday (from 4pm) to Sunday (kick out at 10am). We would _love_ to have everyone there for the full weekend if possible, but there just aren't enough beds for the number of guests.
-
-If we can't sort you to stay on-site, we have found these hotels nearby:
+We have found these hotels nearby, but feel free to also look elsewhere (but please message us before you book, we're trying to sort out discounts and accommodation where we can!):
 
 - [Fortingall Hotel](https://www.fortingall.com/) (Fortingall, 2.5 miles)
 - [The Kenmore Club](https://www.kenmoreclub.com/)(Kenmore, 3.8 miles)

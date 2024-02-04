@@ -20,9 +20,7 @@ Você pode ler mais sobre [Boreland aqui](https://borelandlochtay.co.uk/) ou no 
 
 # Hospedagem
 
-Para aquelas pessoas vindo de muito, muito longe, não se preocupem, nós organizamos hospedagem no local da cerimônia (e festa), para o final de semana inteiro, de sexta (à partir das 16:00) à domingo (até as 10:00). Seria maravilhoso se pudéssemos hospedar todo mundo durante todo o fim de semana, mas infelizmente, temos mais convidados que camas. 
-
-Se não conseguirmos organizar hospedagem pra você, aqui estão alguns hoteis que nós encontramos nas redondezas: 
+Aqui estão algumas recomendaçōes de hoteis que nós achamos nos arredores, mas fique à vontade pra procurar outras opçōes também (por favor, nos mandem mensagem antes de fazer reservas, nós estamos tentando organizar descontos e hospedagem onde possīvel!).
 
 - [Fortingall Hotel](https://www.fortingall.com/) (Fortingall, 2.5 miles)
 - [The Kenmore Club](https://www.kenmoreclub.com/)(Kenmore, 3.8 miles)
