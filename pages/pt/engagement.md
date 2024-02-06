@@ -4,7 +4,6 @@ title: Confirmação de Presença
 permalink: /engagement
 lang: pt
 image: salthorse.jpeg
-colour-image: salthorse-colour.jpeg
 page_id: engagement
 order: 1
 ---

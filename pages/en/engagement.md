@@ -4,7 +4,6 @@ title: Engagement Party RSVP
 permalink: /engagement
 lang: en
 image: salthorse.jpeg
-colour-image: salthorse-colour.jpeg
 page_id: engagement
 order: 1
 ---

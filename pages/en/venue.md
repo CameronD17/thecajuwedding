@@ -5,7 +5,6 @@ permalink: /venue
 page_id: venue
 lang: en
 image: boreland.jpeg
-colour-image: boreland-colour.jpeg
 order: 2
 ---
 

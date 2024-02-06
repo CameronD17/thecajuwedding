@@ -6,7 +6,7 @@ title: Home
 {% assign sorted_pages = site.pages | where_exp: "page", "page.order > 0" | sort: "order" %}
 {% for page in sorted_pages %}
   {% if page.image %}
-    <div class="featured-post" style="--image: url({{ site.github.url }}/assets/img/{{ page.image }}); --colour-image: url({{ site.github.url }}/assets/img/{{ page.colour-image }})">
+    <div class="featured-post" style="--image: url({{ site.github.url }}/assets/img/{{ page.image }}); --colour-image: url({{ site.github.url }}/assets/img/colour-{{ page.image }})">
       <a class="featured-link" href="{{ site.github.url }}{{ page.url }}"><h1>{{ page.title }}</h1></a>
     </div>
   {% endif %}
