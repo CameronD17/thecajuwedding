@@ -5,5 +5,5 @@ menu:
 - {name: 'Festa de Noivado', url: 'engagement'}
 - {name: 'Local', url: 'venue'}
 # - {name: 'Sobre Nós', url: 'about'}
-# - {name: 'Sequência Do Dia', url: 'order-of-the-day'}
+- {name: 'Evento', url: 'order-of-the-day'}
 # - {name: 'Contate-nos', url: 'contact'}

@@ -5,5 +5,5 @@ menu:
 - {name: 'Engagement Party RSVP', url: 'engagement'}
 - {name: 'Venue', url: 'venue'}
 # - {name: 'About Us', url: 'about'}
-# - {name: 'Order Of The Day', url: 'order-of-the-day'}
+- {name: 'Order Of The Day', url: 'order-of-the-day'}
 # - {name: 'Contact Us', url: 'contact'}
