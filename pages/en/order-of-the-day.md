@@ -5,7 +5,7 @@ permalink: /order-of-the-day
 lang: en
 image: order.jpeg
 page_id: order
-order: 4
+order: 3
 ---
 
 # Timeline
@@ -20,7 +20,7 @@ We'll be on-site from 4pm onwards, and we will have a pizza truck with us (court
 
 ![Saturday timeline]({{site.url}}/assets/img/saturday_timeline.png)
 
-If Aberfeldy finally has a parkrun, then we'll be off doing that in the morning. Please join us if you are able to! We are planning to be back at Boreland for about 10:30. If you're coming from afar on the day, please arrive by 12:30!
+If you're coming from afar on the day, please arrive by 12:30!
 
 # Drinks
 
