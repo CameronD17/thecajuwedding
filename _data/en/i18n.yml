@@ -2,8 +2,50 @@ lang_name: "English"
 title:		           "The CaJu Wedding"
 description:	       "The Wedding of Cameron & Júlia"
 menu:
-- {name: 'Engagement Party RSVP', url: 'engagement'}
 - {name: 'Venue', url: 'venue'}
-# - {name: 'About Us', url: 'about'}
 - {name: 'Order Of The Day', url: 'order-of-the-day'}
-# - {name: 'Contact Us', url: 'contact'}
+- {name: 'Gallery', url: 'gallery'}
+
+photo_caption:
+- Party Time
+- Our First Picture!
+- First 5k race!
+- "Rest And Be Thankful"
+- Our first parkrun!
+- Climbing Ben Vrackie
+- Broughton St Challenge!
+- Ben Nevis <3
+- Men's 10k (Jú's PB!)
+- First caipirinha
+- Terraço Itália
+- Açaí!!!
+- Out in Sāo Paulo
+- First Salt Horse NYE
+- Charlie in the snow
+- Fairytale
+- First camping trip
+- Lisbon Half Marathon
+- The giraffe hunt!
+- Beautiful bears
+- Date night in Spain
+- Breakfast buddies!
+- Rowing in the rain
+- First wedding
+- Canicross
+- Tromsø
+- Xmas Cookies
+- Family portrait
+- Love you!
+- Jú's snowy birthday
+- Annual Murrayfield trip
+- Spring in Bute
+- :D :D
+- Picking berries
+- Scottish Italy
+- We fancy sometimes
+- She said yes!!
+- Astral Destiny <3
+- Mt Rinjani, Lombok
+- Amsterdam <3
+- Photographer done good
+- parkrun volunteers!

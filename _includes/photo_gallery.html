@@ -1,0 +1,9 @@
+<div class="gallery">
+    {% assign photo_count = site.data.i18n.photo_caption.size | minus: 1 %}
+    {% for i in (0..photo_count) %}
+        <figure>
+            <img src="/assets/img/gallery/{{i}}.jpg" />
+            <figcaption>{{ site.data.i18n.photo_caption[i] }}</figcaption>
+        </figure>
+    {% endfor %}
+</div>

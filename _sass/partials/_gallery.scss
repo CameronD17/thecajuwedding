@@ -1,0 +1,52 @@
+.gallery {
+    width: 100%;
+    display: inline-block;   
+    font-family: $cursive-font;
+
+    // it wasn't worth the pre-processing hoops I'd need to jump
+    // through to get the actual number of pictures
+    @for $i from 1 through 100 {
+        figure:nth-child(#{$i}) {
+            $random: -1;
+            @if $i % 2 == 0 {
+                $random: calc(random(15) * -1);
+            } @else {
+                $random: random(15);
+            }
+            padding-left: $random;
+            -webkit-transform: rotate($random+deg);
+        }
+    }
+}
+
+@media (max-width: $content-width) {
+    .gallery {
+        display: grid;
+        place-items: center; 
+    }
+}
+
+.gallery img {
+    height: 150px;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+  
+.gallery figure {
+    float: left;
+    position: relative;
+    background-color: $background-colour;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px;
+    z-index: 1;
+    box-shadow: 2px 2px 3px $shadow-colour;
+}
+  
+.gallery figure:hover {
+    box-shadow: 10px 10px 100px $shadow-colour;
+    -webkit-transform: scale(1.6);
+    z-index: 20;
+}

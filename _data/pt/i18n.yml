@@ -2,8 +2,50 @@ lang_name: "Português"
 title:		           "O CaJu Casamento"
 description:	       "O Casamento de Cameron e Júlia"
 menu:
-- {name: 'Festa de Noivado', url: 'engagement'}
 - {name: 'Local', url: 'venue'}
-# - {name: 'Sobre Nós', url: 'about'}
 - {name: 'Evento', url: 'order-of-the-day'}
-# - {name: 'Contate-nos', url: 'contact'}
+- {name: 'Galeria', url: 'gallery'}
+
+photo_caption:
+- Hora da festa!
+- Nossa primeira foto
+- Corrida de 5km
+- "Rest And Be Thankful"
+- Primeira parkrun!
+- Subindo Ben Vrackie
+- Desafio da Broughton St!
+- Ben Nevis <3
+- Men's 10k (Jú's PB!)
+- Primeira caipirinha
+- Terraço Itália
+- Açaí!!!
+- Em Sāo Paulo
+- Ano novo em Salt Horse
+- Charlie na neve
+- Conto de fadas
+- Acampamento
+- Meia Maratona de Lisboa
+- Buscas das girafas
+- Pessoas bonitas
+- Encontro noturno na Espanha
+- Breakfast buddies!
+- Remando na chuva
+- Primeiro casório
+- Canicross
+- Tromsø
+- Biscoitos natalinos
+- Retrato em família
+- Te amo!
+- Aniversário nevado da Júlia
+- Visita anual para o rugby
+- Primavera em Bute
+- :D :D
+- Colhendo morangos
+- Itália na Escócia
+- Às vezes somos elegantes
+- Ela disse sim!!
+- Astral Destiny <3
+- Mt Rinjani, Lombok
+- Amsterdam <3
+- O fotógrafo arrasou
+- Voluntários!
