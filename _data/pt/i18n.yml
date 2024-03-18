@@ -2,9 +2,51 @@ lang_name: "Português"
 title:		           "O CaJu Casamento"
 description:	       "O Casamento de Cameron e Júlia"
 menu:
+- {name: 'Confirmar Presença', url: 'rsvp'}
 - {name: 'Local', url: 'venue'}
 - {name: 'Evento', url: 'order-of-the-day'}
 - {name: 'Galeria', url: 'gallery'}
+
+who_are_you: Quem é você?
+one_form_note: (Se o seu convite tem mais de um destinatário, por favor preencha um formulário por pessoa.
+
+first_name: Nome
+last_name: Sobrenome
+
+attending_question: Você estará presente?
+attending_yes: Com certeza!
+attending_no: Infelizmente, não :(
+
+email: Endereço de email
+
+friday_question: Você estará lá na sexta-feira?
+friday_yes: Pra pizza grátis? 100%!
+friday_no: Não, eu vou sair perdendo.
+
+wedding_breakfast: Refeição
+
+dietary: Você tem alguma preferência nutricional/restrição alimentar?
+
+please_choose: -Seleção-
+
+starter_label: Entrada
+starter_1: Sopa de Tomate e Pimentão assado com Óleo de Ervas e Croutons (Vegano e Sem Gluten)
+starter_2: Salada Francesa de Salmão (Nicoise) (Sem Gluten)
+
+mains_label: Prato Principal
+main_1: Rosbife Tradicional Escocês com Yorkshire Pudding caseiro e Beef Jus
+main_2: Ballotine de Frango com Sálvia e Pancetta, servido com Pan Jus (Sem Gluten)
+main_3: Verduras e Legumes Grelhados, Batata-doce e Grão-de-bico Tian com Molho de Tomate Assado e Manjeiricão (Vegano e Sem Gluten)
+
+dessert_label: Sobremesa
+dessert_1: Crème Brulee com Framboesa e Biscoito Amanteigado Escocês (Shortbread) (Vegetariano)
+dessert_2:	Pudim de Caramelo (Sticky Toffee Pudding) com Calda e Sorvete de Baunilha (Vegano e Sem Gluten)
+
+transport_question: Você tem meio de transporte para o casamento?
+transport_info: Nós vamos organizar meios de transporte de Edimburgo á Boreland, se necessário (coordenação de caronas ou aluguel de mini-ônibus) - caso você não precise, marque aqui.
+
+song_requests: Algum pedido de música?
+song_requests_placeholder: Nós manteremos nossos direitos de vetos nos pedidos!
 
 photo_caption:
 - Hora da festa!

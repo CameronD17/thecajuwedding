@@ -36,12 +36,12 @@ Observação: cardápio sujeito à alterações – nós estamos finalizando os 
 ## Entradas
 
 -	Sopa de Tomate e Pimentão assado com Óleo de Ervas e Croutons (Vegano e Sem Gluten)
--	Salada Francesa (Nicoise) de Salmão (Sem Gluten)
+-	Salada Francesa de Salmão (Nicoise) (Sem Gluten)
 
 ## Prato Principal
 
 (Todos servidos com batata assada com alecrim e verduras da estação)
--	Rosbife Escocês Tradicional com Yorkshire Pudding caseiro e Beef Jus
+-	Rosbife Tradicional Escocês com Yorkshire Pudding caseiro e Beef Jus
 -	Ballotine de Frango com Sálvia e Pancetta, servido com Pan Jus (Sem Gluten)
 -	Verduras e Legumes Grelhados, Batata-doce e Grão-de-bico Tian com Molho de Tomate Assado e Manjeiricão (Vegano e Sem Gluten)
 

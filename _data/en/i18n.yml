@@ -2,9 +2,51 @@ lang_name: "English"
 title:		           "The CaJu Wedding"
 description:	       "The Wedding of Cameron & Júlia"
 menu:
+- {name: 'RSVP', url: 'rsvp'}
 - {name: 'Venue', url: 'venue'}
 - {name: 'Order Of The Day', url: 'order-of-the-day'}
 - {name: 'Gallery', url: 'gallery'}
+
+who_are_you: Who Are Ye?
+one_form_note: (If there is more than one person named on your invite, can you please fill out one form per person? Cameron could not be bothered to make a fancier form)
+
+first_name: First Name
+last_name: Last Name
+
+attending_question: Will you be attending?
+attending_yes: Hell yes!
+attending_no: Sadly not :(
+
+email: Email Address
+
+friday_question: Will you be there on Friday?
+friday_yes: For free pizza? 100%!
+friday_no: No, I am a loser and will not attend.
+
+wedding_breakfast: Wedding Breakfast
+
+dietary: Any dietary requirements / restrictions?
+
+please_choose: -Select-
+
+starter_label: Starter
+starter_1: Roasted Red Pepper & Tomato Soup served with Herb Oil & Croutons (Vegan & GF)
+starter_2: Hot Smoked Salmon Nicoise Salad (GF)
+
+mains_label: Main Course
+main_1: Traditional Scottish Roast Beef with Homemade Yorkshire Pudding and Beef Jus
+main_2: Chicken Ballottines with Sage and Pancetta, served with a Pan Jus (GF)
+main_3: Char Grilled Vegetable, Sweet Potato and Chickpea Tian with Roasted Tomato and Basil Sauce (Vegan & GF)
+
+dessert_label: Dessert
+dessert_1: Crème Brulee Topped with Raspberries, handmade shortbread (V)
+dessert_2: Sticky Toffee Pudding with Butterscotch Sauce & Vanilla Ice Cream (Vegan & GF)
+
+transport_question: Do you have your own transportation?
+transport_info: We will be looking into organising transport from Edinburgh if it is required (this may be in the form of coordinating car sharing, or coach rental) - if you do not need this, please tick here.
+
+song_requests: Any song requests? 
+song_requests_placeholder: We will retain full veto rights for this!
 
 photo_caption:
 - Party Time
