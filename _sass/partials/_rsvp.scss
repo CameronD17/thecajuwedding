@@ -1,0 +1,94 @@
+form {
+    margin-top: -8px; // lol
+    width: 100%;
+}
+
+hr {
+    margin: 20px 0px 30px 0px;
+}
+
+input {
+    margin-top: 6px;
+    margin-bottom: 10px;
+}
+
+input[type=text], textarea {
+    width: 100%;
+}
+  
+input[id=Radio_1]:checked~.remove-check {
+    display: none;
+}
+
+input[id=Radio_1]:checked~#attending_true {
+    display: block;
+}
+  
+#attending_true {
+    display: none;
+}
+
+form select {
+    width: 100%;
+    margin-top: 10px;
+}
+
+form input, select { 
+    margin-bottom: 15px;
+}
+
+.radio-group {
+    width: 100%;
+}
+
+.help-text {
+    color: $mute-colour;
+    font-size: 0.95rem;
+    font-style: italic;
+    margin-left: 10px;
+}
+
+.submit-button {
+    left: 50%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+
+    font-size: 1.1rem;
+    font-weight: 200;
+    color: $accent-colour;
+    letter-spacing: 1px;
+
+    margin-top: 15px;
+    padding: 10px 15px 10px;
+
+    outline: 0;
+    border: 1px solid black;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.submit-button:after {
+    content: "";
+    background-color: $link-colour;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    height: 100%;
+    top: 5px;
+    left: 5px;
+    transition: 0.2s;
+}
+
+.submit-button:hover:after {
+    top: 0px;
+    left: 0px;
+}
+
+@media (min-width: $article-width) {
+    .submit-button {
+        padding: 10px 40px 10px;
+    }
+}

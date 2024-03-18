@@ -1,0 +1,84 @@
+---
+layout: page
+---
+{{ content }}
+{% if site.active_lang == 'pt' %}
+  {% assign redirect = 'https://thecajuwedding.com/pt/thanks' %}
+{% else %}
+  {% assign redirect = 'https://thecajuwedding.com/thanks' %}
+{% endif %}
+<form action='https://forms.zohopublic.com/virtualoffice23209/form/WeddingRSVP/formperma/weDBN3AkrnMmvCXs4op2o_pgwUcm0bdx4kBfbhJxtQs/htmlRecords/submit' name='form' id='form' method='POST' accept-charset='UTF-8' enctype='multipart/form-data'>
+
+  <!--Name-->
+  <h2>{{ site.data.i18n.who_are_you }}</h2>
+  <p class="help-text">{{ site.data.i18n.one_form_note }}</p>
+
+  <label>{{ site.data.i18n.first_name }}</label>
+  <input type="text" maxlength="255" name="Name_First" fieldType=7 placeholder="" />
+  <label>{{ site.data.i18n.last_name }}</label>
+  <input type="text" maxlength="255" name="Name_Last" fieldType=7 placeholder="" />
+  
+  <div>
+    <!--Attending?-->
+    <h2>{{ site.data.i18n.attending_question }}</h2>
+    <p></p>
+    <input type="radio" id="Radio_1" name="Radio" value="1">
+    <label for="Radio_1" >{{ site.data.i18n.attending_yes }}</label>
+    <input type="radio" id="Radio_2" name="Radio" value="0">
+    <label for="Radio_2" >{{ site.data.i18n.attending_no }}</label>
+    <div id="attending_true">
+      <!--Email-->
+      <label>{{ site.data.i18n.email }}</label>
+      <input type="text" maxlength="255" name="Email" value="" fieldType=9 placeholder="" />
+
+      <!--Transport-->
+      <input type="checkbox" id="DecisionBox" name="DecisionBox"/>
+      <label for="DecisionBox">{{ site.data.i18n.transport_question }}</label>
+      <p class="help-text">{{ site.data.i18n.transport_info }}</p>
+
+      <!--Friday?-->
+      <h2>{{ site.data.i18n.friday_question }}</h2>
+      <p></p>
+      <input type="radio" id="Radio1_1" name="Radio1" value="1">
+      <label for="Radio1_1" >{{ site.data.i18n.friday_yes }}</label>
+      <input type="radio" id="Radio1_2" name="Radio1" value="0">
+      <label for="Radio1_2" >{{ site.data.i18n.friday_no }}</label>
+
+      <h2>{{ site.data.i18n.wedding_breakfast }}</h2>
+      <!--Dietary-->
+      <label>{{ site.data.i18n.dietary }}</label>
+      <textarea name="MultiLine1" maxlength="65535" placeholder="" ></textarea>
+
+      <!--Starter-->
+      <label>{{ site.data.i18n.starter_label }}</label>
+      <select name="Dropdown">
+      <option selected="true" value="-Select-">{{ site.data.i18n.please_choose }}</option>
+      <option value="soup">{{ site.data.i18n.starter_1 }}</option>
+      <option value="salmon">{{ site.data.i18n.starter_2 }}</option>
+      </select>
+
+      <!--Mains-->
+      <label>{{ site.data.i18n.mains_label }}</label>
+      <select name="Dropdown1">
+      <option selected="true" value="-Select-">{{ site.data.i18n.please_choose }}</option>
+      <option value="beef">{{ site.data.i18n.main_1 }}</option>
+      <option value="chicken">{{ site.data.i18n.main_2 }}</option>
+      <option value="veg">{{ site.data.i18n.main_3 }}</option>
+      </select>
+
+      <!--Dessert-->
+      <label>{{ site.data.i18n.dessert_label }}</label>
+      <select name="Dropdown2">
+      <option selected="true" value="-Select-">{{ site.data.i18n.please_choose }}</option>
+      <option value="creme_brulee">{{ site.data.i18n.dessert_1 }}</option>
+      <option value="sticky_toffee">{{ site.data.i18n.dessert_2 }}</option>
+      </select>
+
+      <!--Songs-->
+      <h2> {{ site.data.i18n.song_requests }}</h2>
+      <textarea name="MultiLine" maxlength="65535" placeholder="{{ site.data.i18n.song_requests_placeholder }}" ></textarea>
+    </div>
+  </div>
+
+  <button  class="submit-button" type="submit"><em>Submit</em></button>
+</form>
