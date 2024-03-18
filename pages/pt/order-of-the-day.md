@@ -5,7 +5,7 @@ permalink: /order-of-the-day
 lang: pt
 image: order.jpeg
 page_id: order
-order: 4
+order: 3
 ---
 
 # Cronograma
@@ -20,7 +20,7 @@ Nós estaremos no local à partir das 16h, e o pessoal da [Bangin' Pizza](https:
 
 ![Saturday timeline]({{site.url}}/assets/img/sabado_cronograma.png)
 
-Se a parkrun em Aberfeldy já estiver aberta, nós iremos até lá pra uma corridinha de manhã (começa às 9:30). Sintam-se à vontade pra nos acompanhar e começar o dia bem, e estaremos de volta à Boreland lá pelas 10:30. Se você só vem pra cerimônia e festa no Sábado, por favor chegue até 12:30pm. 
+Se você só vem pra cerimônia e festa no Sábado, por favor chegue até 12:30pm.
 
 # Bebidas
 
