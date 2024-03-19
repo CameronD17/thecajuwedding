@@ -30,13 +30,13 @@
   letter-spacing: -1px;
 }
 
-img {
+.timeline img {
   width: 70%;
   padding: 30px 0;
 }
 
 @media (max-width: $content-width) {
-  img {
+  .timeline img {
     width: 95%;
   }
 }
