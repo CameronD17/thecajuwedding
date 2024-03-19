@@ -12,13 +12,17 @@ order: 3
 
 ## Sexta-feira, 20 de Setembro 2024 - Aquecimento Casamento CaJu
 
-![Friday timeline]({{site.url}}/assets/img/sexta_cronograma.png)
+ <div class="timeline">
+    <img src="{{site.url}}/assets/img/sexta_cronograma.png" />
+ </div>
 
-Nós estaremos no local à partir das 16h, e o pessoal da [Bangin' Pizza](https://www.banginpizza.co.uk/) estará servindo pizzas das 19h às 21h numa van vintage mega legal (por nossa conta!). Sexta vai ser uma noite descontraída, uma chance pra gente poder passar um tempo gostoso com nossos convidados, já que Sábado vai ser um dia cheio e corrido! Tragam suas bedidas pra essa noite, vistam o que quiserem, e aproveitem a pizza, música, e boa companhia! 
+Nós estaremos no local à partir das 17h, e o pessoal da [Bangin' Pizza](https://www.banginpizza.co.uk/) estará servindo pizzas das 19h às 21h numa van vintage mega legal (por nossa conta!). Sexta vai ser uma noite descontraída, uma chance pra gente poder passar um tempo gostoso com nossos convidados, já que Sábado vai ser um dia cheio e corrido! Tragam suas bedidas pra essa noite, vistam o que quiserem, e aproveitem a pizza, música, e boa companhia! 
 
 ## Sábado, 21 de Setembro 2024 – O Grande Dia 
 
-![Saturday timeline]({{site.url}}/assets/img/sabado_cronograma.png)
+<div class="timeline">
+    <img src="{{site.url}}/assets/img/sabado_cronograma.png" />
+</div>
 
 Se você só vem pra cerimônia e festa no Sábado, por favor chegue até 12:30pm.
 
