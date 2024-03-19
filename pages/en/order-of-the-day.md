@@ -13,7 +13,7 @@ order: 3
 ## Friday, September 20th 2024 - CaJu Wedding Warm-up
 
 <div class="timeline">
-    <img src="{{site.url}}/assets/img/friday_timeline.png" />
+    <img src="{{site.url}}/assets/img/friday_timeline.jpeg" />
 </div>
 
 We'll be on-site from 5pm onwards, and we will have a pizza truck with us (courtesy of [Bangin' Pizza](https://www.banginpizza.co.uk/)) from about 7-9pm. It will be an informal night, where we want to spend time with as many of you as we can, as we know weddings can sometimes be difficult for that. BYOB, no dress code, just pizza and beer and music and good company (you guys need to bring that last part because we certainly aren't).

@@ -13,7 +13,7 @@ order: 3
 ## Sexta-feira, 20 de Setembro 2024 - Aquecimento Casamento CaJu
 
  <div class="timeline">
-    <img src="{{site.url}}/assets/img/sexta_cronograma.png" />
+    <img src="{{site.url}}/assets/img/sexta_cronograma.jpeg" />
  </div>
 
 Nós estaremos no local à partir das 17h, e o pessoal da [Bangin' Pizza](https://www.banginpizza.co.uk/) estará servindo pizzas das 19h às 21h numa van vintage mega legal (por nossa conta!). Sexta vai ser uma noite descontraída, uma chance pra gente poder passar um tempo gostoso com nossos convidados, já que Sábado vai ser um dia cheio e corrido! Tragam suas bedidas pra essa noite, vistam o que quiserem, e aproveitem a pizza, música, e boa companhia! 
