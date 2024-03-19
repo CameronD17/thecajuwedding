@@ -1,5 +1,5 @@
 lang_name: "Português"
-title:		           "O CaJu Casamento"
+title:		           "Casamento CaJu"
 description:	       "O Casamento de Cameron e Júlia"
 menu:
 - {name: 'Confirmar Presença', url: 'rsvp'}
@@ -43,7 +43,7 @@ dessert_1: Crème Brulee com Framboesa e Biscoito Amanteigado Escocês (Shortbre
 dessert_2:	Pudim de Caramelo (Sticky Toffee Pudding) com Calda e Sorvete de Baunilha (Vegano e Sem Gluten)
 
 transport_question: Você tem meio de transporte para o casamento?
-transport_info: Nós vamos organizar meios de transporte de Edimburgo á Boreland, se necessário (coordenação de caronas ou aluguel de mini-ônibus) - caso você não precise, marque aqui.
+transport_info: Nós vamos organizar meios de transporte de Edimburgo à Boreland, se necessário (coordenação de caronas ou aluguel de mini-ônibus) - caso você não precise, marque aqui.
 
 song_requests: Algum pedido de música?
 song_requests_placeholder: Nós manteremos nossos direitos de vetos nos pedidos!
