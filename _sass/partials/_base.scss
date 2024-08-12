@@ -93,7 +93,7 @@ blockquote {
 }
 
 label {
-    font-family: $body-font;
+  font-family: $body-font;
   color: $font-colour;
 }
 
@@ -104,6 +104,7 @@ ul, ol, dl {
   margin-left: 1.5rem;
   font-family: $body-font;
   line-height: 1.65;
+  color: $font-colour;
 }
 
 ol li {

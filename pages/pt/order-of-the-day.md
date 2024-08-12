@@ -10,8 +10,15 @@ order: 3
 
 # Informações Gerais
 
-- Cachorros são mais que bem-vindos! Por favor, nos informe se você está trazendo +4 patas :)
-- O horário de chegada na sexta-feira é à partir das 17h, ou se você só vier vier no sábado, favor chegar às 12h30
+
+## Horário de chegada
+
+O horário de chegada e check-in na Sexta-feira é à partir das 16h, e a festa começa às 17h. Se você só vier no Sábado, favor chegar ás 12:30pm.  
+
+## Sugestões de Traje
+
+- Sexta-feira: Esporte-Fino - não precisa ser o seu melhor look, mas ainda mantendo a vibe de casamento.
+- Sábado: Social completo, por favor!
 
 # Cronograma
 
@@ -21,22 +28,13 @@ order: 3
     <img src="{{site.url}}/assets/img/sexta_cronograma.jpeg" />
  </div>
 
-Nós estaremos no local à partir das 17h, e o pessoal da [Bangin' Pizza](https://www.banginpizza.co.uk/) estará servindo pizzas das 19h às 21h numa van vintage mega legal (por nossa conta!). Sexta vai ser uma noite descontraída, uma chance pra gente poder passar um tempo gostoso com nossos convidados, já que Sábado vai ser um dia cheio e corrido! Tragam suas bedidas pra essa noite, vistam o que quiserem, e aproveitem a pizza, música, e boa companhia! 
+Nós estaremos no local à partir das 17h, e o pessoal da [Bangin' Pizza](https://www.banginpizza.co.uk/) estará servindo pizzas das 19h às 21h numa van vintage mega legal (por nossa conta!). Sexta vai ser uma chance pra gente poder passar um tempo gostoso com nossos convidados, já que Sábado vai ser um dia cheio e corrido! Tragam suas bedidas pra essa noite (o bar em Boreland não abrirá até Sábado pro casamento. Os supermercados mais próximos ficam em Killin ou Aberfeldy, ambos a cerca de 20-25 minutos de carro de Boreland), e aproveitem a pizza, música, e boa companhia! 
 
 ## Sábado, 21 de Setembro 2024 – O Grande Dia 
 
 <div class="timeline">
     <img src="{{site.url}}/assets/img/sabado_cronograma.png" />
 </div>
-
-Se você só vem pra cerimônia e festa no Sábado, por favor chegue até 12:30pm.
-
-# Bebidas
-
-Por favor tragam suas próprias bedidas pra sexta-feira (alcoólicas ou não), o bar em Boreland não abrirá até Sábado pro casamento. Os supermercados mais próximos ficam em Killin ou Aberfeldy, ambos a cerca de 20-25 minutos de carro de Boreland. 
-
-O bar estará aberto no Sabádo, e pagamento poderá ser feito em dinheiro ou cartão. Fiquem de olhos abertos pra uma surpresa nas mesas também!
-
 
 # Cardápio
 
@@ -57,12 +55,8 @@ O bar estará aberto no Sabádo, e pagamento poderá ser feito em dinheiro ou ca
 -	Crème Brulee com Framboesa e Biscoito Amanteigado Escocês (Shortbread) (Vegetariano)
 -	Pudim de Caramelo (Sticky Toffee Pudding) com Calda e Sorvete de Baunilha (Vegano e Sem Gluten)
 
-# Sugestões de Traje 
-
-Traje Social ou Kilts, por favor! Nada de fantasia de T-Rex dessa vez. 
-
 # Presentes
 
-Nós não esperamos presentes dos nossos convidados. Todos vocês estão presentes, muitos vindo de muito longe, para aprovetar esse dia muito especial conosco, e este é nosso maior presente. 
+Presentes não são necessários pro nosso casamento. Todos vocês estão presentes, muitos vindo de muito longe, para aprovetar esse dia muito especial conosco, e este é nosso maior presente. 
 
-Contanto, nós recebemos muitas perguntas, então para aqueles que insistem, nós adoraríamos uma doação para o [Edinburgh Dog & Cat Home](https://edch.org.uk/donate/) (abrigo de cachorros e gatos). Ou, para aqueles que preferirem, uma contribuição para a nossa tão sonhada lua-de-mel na Grecia à estilo Mamma Mia também seria super bem-vinda. Muito gratos! 
+Contanto, nós recebemos muitas perguntas, então para aqueles que insistem, nós adoraríamos uma doação para o [Edinburgh Dog & Cat Home](https://edch.org.uk/donate/) (abrigo para cachorros e gatos). Ou, para aqueles que preferirem, uma contribuição para a nossa tão sonhada lua-de-mel na Grécia à estilo Mamma Mia também seria super bem-vinda. Muito gratos! 

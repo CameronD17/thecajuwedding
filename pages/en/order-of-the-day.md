@@ -10,8 +10,17 @@ order: 3
 
 # General Information
 
-- Dogs are welcome (and encouraged)! Please do let us know if you're bringing any +4 paws though :)
-- Arrival time on the Friday is from 5pm, or if you're coming to us on the Saturday, then please arrive for 12:30
+## Dogs
+
+Dogs are welcome to join us (and are heavily encouraged)! Please do let us know if you're bringing any +4 paws though so we know what to expect.
+
+## When To Arrive
+
+If you're staying on-site at Boreland, check-in opens at 4pm, and the party starts at 5pm. If you're coming to us on the Saturday, then please arrive for 12:30. 
+
+## Dress Code
+- Friday: Smart-casual - it doesn't have to be your Sunday best, but it's also still a wedding, so nae onesies.
+- Saturday: Formal / national dress please! No T-Rex costumes this time (Júlia made me write that, wear a T-Rex costume if you want!)
 
 # Timeline
 
@@ -21,7 +30,9 @@ order: 3
     <img src="{{site.url}}/assets/img/friday_timeline.jpeg" />
 </div>
 
-We'll be on-site from 5pm onwards, and we will have a pizza truck with us (courtesy of [Bangin' Pizza](https://www.banginpizza.co.uk/)) from about 7-9pm. It will be an informal night, where we want to spend time with as many of you as we can, as we know weddings can sometimes be difficult for that. BYOB, no dress code, just pizza and beer and music and good company (you guys need to bring that last part because we certainly aren't).
+We'll be on-site from 5pm onwards, and we will have a pizza truck with us (courtesy of [Bangin' Pizza](https://www.banginpizza.co.uk/)) from about 7-9pm. We want to spend time with as many of you as we can on the Friday, as we know weddings can sometimes be difficult for that with tight schedules. 
+
+The Friday night is _exclusively BYOB_ though; the nearest supermarkets are in Killin or Aberfeldy, both about a 20-25 minute drive from Boreland, so don't forget to bring drinks with you!
 
 ## Saturday, September 21st 2024 - The Big Day
 
@@ -29,15 +40,9 @@ We'll be on-site from 5pm onwards, and we will have a pizza truck with us (court
     <img src="{{site.url}}/assets/img/saturday_timeline.png" />
 </div>
 
-If you're coming from afar on the day, please arrive by 12:30!
-
-# Drinks
-
-Friday is _exclusively_ BYOB! The bar won't be open for us, so please bring your own! The nearest supermarkets are in Killin or Aberfeldy, both about a 20-25 minute drive from Boreland.
-
-On Saturday, there will be a cash bar serving the usual beers/wines/spirits. Plus a bonus for everyone on the tables (this will make more sense on the day).
-
 # Wedding Breakfast Menu
+
+Just in case you forget what you RSVP'd!
 
 ## Starters
 
@@ -55,10 +60,6 @@ On Saturday, there will be a cash bar serving the usual beers/wines/spirits. Plu
 
 - Crème Brulee Topped with Raspberries, handmade shortbread (V)
 - Sticky Toffee Pudding with Butterscotch Sauce & Vanilla Ice Cream (Vegan & GF)
-
-# Dress Code
-
-Formal / national dress please! No T-Rex costumes this time (Júlia made me write that, wear a T-Rex costume if you want!)
 
 # Gifts
 
