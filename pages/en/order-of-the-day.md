@@ -39,8 +39,6 @@ On Saturday, there will be a cash bar serving the usual beers/wines/spirits. Plu
 
 # Wedding Breakfast Menu
 
-*NOTE:* this menu is provisional and subject to change - we will be finalising it soon and asking for menu choices and dietary requirements as part of your RSVP, but as an example of what we will have:
-
 ## Starters
 
 - Roasted Red Pepper & Tomato Soup served with Herb Oil & Croutons (Vegan & GF)

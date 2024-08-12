@@ -40,8 +40,6 @@ O bar estará aberto no Sabádo, e pagamento poderá ser feito em dinheiro ou ca
 
 # Cardápio
 
-Observação: cardápio sujeito à alterações – nós estamos finalizando os detalhes e vamos solicitar suas escolhas e preferências nutricionais no formulário de confirmação de presença. 
-
 ## Entradas
 
 -	Sopa de Tomate e Pimentão assado com Óleo de Ervas e Croutons (Vegano e Sem Gluten)
