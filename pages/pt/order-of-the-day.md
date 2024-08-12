@@ -8,6 +8,11 @@ page_id: order
 order: 3
 ---
 
+# Informações Gerais
+
+- Cachorros são mais que bem-vindos! Por favor, nos informe se você está trazendo +4 patas :)
+- O horário de chegada na sexta-feira é à partir das 17h, ou se você só vier vier no sábado, favor chegar às 12h30
+
 # Cronograma
 
 ## Sexta-feira, 20 de Setembro 2024 - Aquecimento Casamento CaJu

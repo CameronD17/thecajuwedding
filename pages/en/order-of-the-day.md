@@ -8,6 +8,11 @@ page_id: order
 order: 3
 ---
 
+# General Information
+
+- Dogs are welcome (and encouraged)! Please do let us know if you're bringing any +4 paws though :)
+- Arrival time on the Friday is from 5pm, or if you're coming to us on the Saturday, then please arrive for 12:30
+
 # Timeline
 
 ## Friday, September 20th 2024 - CaJu Wedding Warm-up
