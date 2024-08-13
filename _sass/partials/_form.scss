@@ -1,41 +1,7 @@
-form {
-    margin-top: -8px; // lol
-    width: 100%;
-}
-
-input[type=text], textarea {
-    width: 100%;
-}
-  
-input[type=checkbox]:checked~.remove-check {
-    display: none;
-}
-  
-input[type=checkbox]:checked~#guest {
-    display: block;
-}
-
-input[type=checkbox]:checked~#food {
-    display: block;
-}
-  
-#guest, #food {
-    display: none;
-}
-
-form input { 
-    margin-bottom: 15px;
-}
-
 .submit-button {
     left: 50%;
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
-
-    font-size: 1.1rem;
-    font-weight: 200;
-    color: $accent-colour;
-    letter-spacing: 1px;
 
     margin-top: 15px;
     padding: 10px 15px 10px;
@@ -47,6 +13,13 @@ form input {
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
+}
+
+.submit-button a {
+    font-size: 1.1rem;
+    font-weight: 200;
+    color: $accent-colour;
+    letter-spacing: 1px;
 }
 
 .submit-button:after {

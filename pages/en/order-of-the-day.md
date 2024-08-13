@@ -65,4 +65,6 @@ Just in case you forget what you RSVP'd!
 
 We have zero expectation for gifts. Y'all are coming a long way just to see us and your presence is present enough.
 
-That said (and only for those that insist), we would appreciate donations to [the Edinburgh Dog & Cat Home](https://edch.org.uk/donate/), or for those that prefer, we won't turn down anyone chipping in for our long-dreamed-of-Mamma-Mia-style Greek honeymoon (ask us for details, or we will share a link nearer the day). Either (or neither) option would make us very happy!
+That said (and only for those that insist), we would appreciate donations to [the Edinburgh Dog & Cat Home](https://edch.org.uk/donate/), or for those that prefer, we won't turn down anyone chipping in for our long-dreamed-of-Mamma-Mia-style Greek honeymoon with the button below. Either (or neither) option would make us very happy!
+
+<button class="submit-button"><a href="https://paypal.me/cajuwedding">Honeymoon Fund</a></button>
